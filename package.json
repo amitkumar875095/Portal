@@ -32,5 +32,8 @@
     "react-tooltip": "^5.26.4",
     "redux-persist": "^6.0.0",
     "tailwind-scrollbar": "^3.1.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.3"
   }
 }
