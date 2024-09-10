@@ -61,11 +61,12 @@ Follow these steps to run the project locally:
 <li>cd server</li>
 
 
-2. Installation
-   <li>npm install</li> 
+<h2>2. Installation</h2>
+      <li>npm install</li> 
    <li>  cd frontend</li>  
    <li> npm install</li>
-3. Run on Local Host
+   <h2>3. Run on Local Host</h2>
+
    <li>npm run dev</li>
    <li> cd ../</li>  
    <li>   npm run dev</li>
