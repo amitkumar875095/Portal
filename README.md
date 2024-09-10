@@ -62,10 +62,9 @@ Follow these steps to run the project locally:
 <h2>2. Installation</h2>
     <li>cd server</li>
     <li>npm install</li> 
-   <li>  cd frontend</li>  
+   <li>  cd frontend (frontend within the server folder)</li>  
    <li> npm install</li>
    <h2>3. Run on Local Host</h2>
-
    <li>npm run dev (to run frontend within the server folder) </li>
    <li> cd ../</li>  
    <li>   npm run dev(to run server)</li>
