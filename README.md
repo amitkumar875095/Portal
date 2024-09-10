@@ -1,4 +1,19 @@
 <h1 align="center">Connect Alumni</h1>
+Team Details
+Team Name: HACK
+
+Project Title: -SOCIALCALC SPREADSHEET
+
+Team Leader: @saadakbar1
+
+Team Members:
+
+MEMBER_1 - 2021UEC2659 - @saadakbar1
+MEMBER_2 - 2021UEC2658 - @amitkumar875095
+MEMBER_3 - 2021UEC26562 - @mohdhumaidd19
+MEMBER_4 - 2021UEC2655 - @shreya38
+MEMBER_5 - 2021UEC2654 - @maneef
+MEMBER_6 - 2021UEC2661 - @ANANDSM0
 <h3 align="center">A platform developed using the MERN stack to bridge the gap between current students and alumni</h3>
 <p align="center">
   <a href="https://connect-alumni-frontend.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Deployment-Vercel-brightgreen" alt="Deployment"></a>
