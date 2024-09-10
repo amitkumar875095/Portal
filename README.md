@@ -70,4 +70,6 @@ Follow these steps to run the project locally:
    <li>npm run dev</li>
    <li> cd ../</li>  
    <li>   npm run dev</li>
-
+   <h1>Error You may Face</h1>
+   <li>Nodemon Not install so you Want to install  the nodemon </li>
+   <li>There are two frontend in the project for local host run use the frontend that are within the server folder</li>
