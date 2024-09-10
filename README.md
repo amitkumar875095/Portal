@@ -57,17 +57,16 @@ Team Members:
 Follow these steps to run the project locally:
 
 1. Clone the Repository
-git clone :  https://github.com/amitkumar875095/Portal.git
+<li>git clone :  https://github.com/amitkumar875095/Portal.git</li>
+<li>cd server</li>
 
- cd SIH_INTERNAL_ROUND_2_HACK
-
-cd server
 
 2. Installation
-  npm install
-  cd frontend
-   npm install
+   <li>npm install</li> 
+   <li>  cd frontend</li>  
+   <li> npm install</li>
 3. Run on Local Host
-   npm run dev
-   cd ../
-   npm run dev
+   <li>npm run dev</li>
+   <li> cd ../</li>  
+   <li>   npm run dev</li>
+
