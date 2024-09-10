@@ -4,7 +4,7 @@ const addcontact = async (req, res) => {
   try {
     const { name, email, phoneNo, issueDescription } = req.body;
 
-    if (!name || !email || !phoneNo || !issueDescription) {
+    if (!name || !email || !phoneNo ||   !issueDescription) {
       return res.status(400).json({ message: "All fields are required." });
     }
 

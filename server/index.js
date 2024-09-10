@@ -8,7 +8,6 @@ const studentJobRoutes =require("./routes/studentJobRoutes.js")
 const galleryRoutes = require("./routes/galleryRoutes.js");
 const eventRoutes = require("./routes/eventRoutes.js");
 const contactRoutes = require("./routes/contactRoutes.js");
-
 const officeBearerRoutes = require("./routes/officeBearer.js");
 const cookieParser = require("cookie-parser");
 const cors = require("cors");
