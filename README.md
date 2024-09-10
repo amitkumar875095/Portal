@@ -58,18 +58,17 @@ Follow these steps to run the project locally:
 
 1. Clone the Repository
 <li>git clone :  https://github.com/amitkumar875095/Portal.git</li>
-<li>cd server</li>
-
 
 <h2>2. Installation</h2>
-      <li>npm install</li> 
+    <li>cd server</li>
+    <li>npm install</li> 
    <li>  cd frontend</li>  
    <li> npm install</li>
    <h2>3. Run on Local Host</h2>
 
-   <li>npm run dev</li>
+   <li>npm run dev (to run frontend within the server folder) </li>
    <li> cd ../</li>  
-   <li>   npm run dev</li>
+   <li>   npm run dev(to run server)</li>
    <h1>Error You may Face</h1>
-   <li>Nodemon Not install so you Want to install  the nodemon </li>
-   <li>There are two frontend in the project for local host run use the frontend that are within the server folder</li>
+   <li> Nodemon Not install so you Want to install  the nodemon </li>
+   <li>There are two frontend in the project for  local host  use the frontend that are within the server folder</li>
