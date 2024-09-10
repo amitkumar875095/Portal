@@ -48,3 +48,34 @@ MEMBER_6 - 2021UEC2661 - @ANANDSM0
   <li>Firebase Storage</li>
 </ul>
 
+<h1>HOW TO RUN IN LOCAL HOST</h1>
+Follow these steps to run the project locally:
+
+1. Clone the Repository
+git clone https://github.com/saadakbar1/SIH_INTERNAL_ROUND_1_HACK.git
+
+cd SIH_INTERNAL_ROUND_1_HACK
+
+cd code
+
+2. Installation
+cd client
+
+npm install
+
+cd ..
+
+cd server
+
+npm install
+
+3. Run on Local Host
+cd ..
+
+cd server
+
+npm run dev
+
+cd ..
+
+cd client npm run dev
